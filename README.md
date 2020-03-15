@@ -1,4 +1,12 @@
 # Food-Bank
-Customization of Salesforce for food banks
 
-This repo is prepared as per the instructions in the Trailhead module titled Community Project Development with CumulusCI - https://trailhead.salesforce.com/content/learn/modules/community-project-development-with-cumulusci?trail_id=build-applications-with-cumulusci
+Add a brief description of this project here, in Markdown format.
+It will be shown on the main page of the project's GitHub repository.
+
+## Development
+
+To work on this project in a scratch org:
+
+1. [Set up CumulusCI](https://cumulusci.readthedocs.io/en/latest/tutorial.html)
+2. Run `cci flow run dev_org --org dev` to deploy this project.
+3. Run `cci org browser dev` to open the org in your browser.
